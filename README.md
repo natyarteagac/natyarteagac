@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalia Arteaga</h1>
-<h3 align="center">I'm a student of Holberton School!</h3>
+<h3 align="center">I'm a Holberton School student!</h3>
 
 - 📝 I regularly write articles on https://www.linkedin.com/in/natalia-arteaga-corrales-a592351a7/detail/recent-activity/posts/
 
