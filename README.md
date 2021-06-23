@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia Arteaga</h1>
 <h3 align="center">I'm a student of Holberton School!</h3>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/feed/update/urn:li:ugcPost:6804093149049434112?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6804093149049434112%29 https://www.linkedin.com/feed/update/urn:li:ugcPost:6795153718963765248?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6795153718963765248%29](https://www.linkedin.com/feed/update/urn:li:ugcPost:6804093149049434112?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6804093149049434112%29 https://www.linkedin.com/feed/update/urn:li:ugcPost:6795153718963765248?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28*%2Curn%3Ali%3AugcPost%3A6795153718963765248%29)
+- 📝 I regularly write articles on ([https://www.linkedin.com/in/natalia-arteaga-corrales-a592351a7/detail/recent-activity/posts/])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
