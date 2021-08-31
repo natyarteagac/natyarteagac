@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia Arteaga C 𝄞𝄞</h1>
-<h3 align="center">Software development student</h3>
+<h3 align="center">Software Development Student</h3>
 
-- 📖 I’m studying on **Foundations program at Holberton School**
+- 📖 I’m studying on **Foundations Program at Holberton School**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/natalia-arteaga-corrales-a592351a7/](https://www.linkedin.com/in/natalia-arteaga-corrales-a592351a7/)
 
