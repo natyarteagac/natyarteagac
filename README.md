@@ -3,7 +3,7 @@
 
 - 📖 I’m currently studying on **Foundations program at Holberton School**
 
-- 🌱 I’m currently learning **Bootstrap, CSS, Javascript, Python, Docker,**
+- 🌱 I’m currently learning **Bootstrap, CSS, Javascript, Python, Docker**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/natalia-arteaga-corrales-a592351a7/](https://www.linkedin.com/in/natalia-arteaga-corrales-a592351a7/)
 
