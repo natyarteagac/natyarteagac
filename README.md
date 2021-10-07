@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalia Arteaga C 𝄞𝄞</h1>
-<h3 align="center">Software development student</h3>
+<h3 align="center">Software Development Student</h3>
 
 - 📖 I’m currently studying on **Foundations program at Holberton School**
 
