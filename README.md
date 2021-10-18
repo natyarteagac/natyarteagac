@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **natalia.arteagac94@gmail.com**
 
-- ⚡ Hobbies [Walk with my two dogs.](Walk with my two dogs.)
-
-- ⚡ Hobbies **Passionate about classical music in special french composers**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/natyartc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="natyartc" height="30" width="40" /></a>
