@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia Arteaga C</h1>
 <h3 align="center">Software Development Student</h3>
 
-- 📖 I’m currently studying on **Foundations Program at Holberton School**
+- 📖 I’m currently studying on **Advanced Web Stack Program at Holberton School**
 
 - 🌱 I’m currently learning **Bootstrap, CSS, Javascript, HTML and Python**
 
